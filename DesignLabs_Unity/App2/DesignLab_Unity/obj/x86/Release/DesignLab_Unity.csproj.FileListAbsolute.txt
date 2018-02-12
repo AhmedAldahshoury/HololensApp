@@ -1,0 +1,2 @@
+C:\Users\Ahmed\Documents\Hololens\MRDesignLabs_Unity\DesignLabs_Unity\App2\DesignLab_Unity\obj\x86\Release\DesignLab_Unity.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\Hololens\MRDesignLabs_Unity\DesignLabs_Unity\App2\DesignLab_Unity\obj\x86\Release\DesignLab_Unity.csproj.CoreCompileInputs.cache

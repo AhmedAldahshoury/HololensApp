@@ -1,0 +1,2 @@
+C:\Users\Ahmed\Documents\Hololens\MRDesignLabs_Unity\DesignLabs_Unity\App\DesignLab_Unity\DesignLab_Unity.csproj;x86
+C:\Users\Ahmed\Documents\Hololens\MRDesignLabs_Unity\DesignLabs_Unity\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
